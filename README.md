@@ -17,9 +17,11 @@ Finally, using a **JOIN**, a CSV file was created to be used for data analysis i
 
 ## Technologies
 * PostgreSQL (using DBeaver)
-* Python: NumPy, Pandas, Matplotlib, Datetime, SciPy
+* Python: `NumPy`, `Pandas`, `Matplotlib`, `Datetime`, `SciPy`
 
 ## Data Sources
 Black Mirror. (2023, June 26). In *Wikipedia*. [https://en.wikipedia.org/wiki/Black_Mirror](https://en.wikipedia.org/wiki/Black_Mirror)
+
 IMDb (2023, June 26). *Black Mirror*. [https://www.imdb.com/title/tt2085059/](https://www.imdb.com/title/tt2085059/)
+
 List of Black Mirror episodes. (2023, June 24). In *Wikipedia*. [https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes](https://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes)
